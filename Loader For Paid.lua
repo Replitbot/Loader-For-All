@@ -1,3 +1,4 @@
+local UserInputService = game:GetService("UserInputService")
 if game.PlaceId == 7842028704 then -- Anime Clash
     a = "https://raw.githubusercontent.com/Replitbot/Loader-For-All/All-Games-Paid-And-Free/ACS%20PAID.lua"
 elseif game.PlaceId == 7114303730 then -- Dragon Ball Orbies
