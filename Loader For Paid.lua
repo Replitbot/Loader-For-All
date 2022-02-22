@@ -6,7 +6,7 @@ elseif game.PlaceId == 8448735476 then -- DBZ Adventures
     a = "https://raw.githubusercontent.com/Replitbot/Loader-For-All/All-Games-Paid-And-Free/dbz%20adventures.lua"
 elseif game.Placeid == 5943856429 then
    a = "https://raw.githubusercontent.com/Replitbot/Loader-For-All/All-Games-Paid-And-Free/Knight%20HEroes" --knight heroes
-elseif game.Placeid == 8302406789 then
+elseif game.Gameid == 8302406789 then
    a = "https://raw.githubusercontent.com/Replitbot/Loader-For-All/All-Games-Paid-And-Free/Animelift" --animelift
 end
     loadstring(game:HttpGet(a))()
