@@ -9,5 +9,7 @@ elseif game.PlaceId == 5943856429 then
    a = "https://raw.githubusercontent.com/Replitbot/Loader-For-All/All-Games-Paid-And-Free/Knight%20HEroes" --knight heroes
 elseif game.PlaceId == 8302406789 then
    a = "https://raw.githubusercontent.com/Replitbot/Loader-For-All/All-Games-Paid-And-Free/Animelift" --animelift
+elseif game.PlaceId == 3102144307 then
+   a = "https://raw.githubusercontent.com/Replitbot/Loader-For-All/All-Games-Paid-And-Free/AnimeClickers.lua"--anime clickerss
 end
     loadstring(game:HttpGet(a))()
